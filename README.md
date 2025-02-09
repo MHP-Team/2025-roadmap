@@ -9,15 +9,15 @@
 - **Category**: AI
 - **Description**: A project that aims to create an AI for MTTN competition.
 - **Est. Deadline**: 3/2025
-### MHP3 (MHP Music Player)
+### MHP3 (MHP Music Player) [#](#mhp3)
 - **Category**: SWE, Free
 - **Description**: A project that aims to create a music player that can play music from the internet, local storage, MHPEC (MHP Ecosystem) and also have a feature to download music. It also provide a feature to fetch music from 3rd party music provider.
 - **Est. Deadline**: 6/2025
-### MHPS (MHP Storage, improvement of [MHPFS](https://fs.mhpteam.dev))
+### MHPS (MHP Storage, improvement of [MHPFS](https://fs.mhpteam.dev)) [#](#mhps)
 - **Category**: SWE, Paid
 - **Description**: A project that aims to create a cloud storage that can store files, images, videos, etc. It also provide a feature to share files, images, videos, mount storage to local storage as a network drive, etc.
 - **Est. Deadline**: 11/2025
-### MHPLT (Special game for Lunar New Year 2026!)
+### MHPLT (Special game for Lunar New Year 2026!) [#](#mhplt)
 - **Category: SWE, Open Source
 - Description: A project that aims to create a game for Lunar New Year 2026. It will be open source and will be available on MHPTeam and MHP0920 Github.
 - **Est. Deadline**: 2/2026
