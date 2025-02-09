@@ -18,7 +18,7 @@
 - **Description**: A project that aims to create a cloud storage that can store files, images, videos, etc. It also provide a feature to share files, images, videos, mount storage to local storage as a network drive, etc.
 - **Est. Deadline**: 11/2025
 ### MHPLT (Special game for Lunar New Year 2026!) [#](#mhplt)
-- **Category: SWE, Open Source
+- **Category**: SWE, Open Source
 - Description: A project that aims to create a game for Lunar New Year 2026. It will be open source and will be available on MHPTeam and MHP0920 Github.
 - **Est. Deadline**: 2/2026
 # Details
