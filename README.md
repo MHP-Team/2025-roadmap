@@ -9,7 +9,7 @@
 - **Category**: AI
 - **Description**: A project that aims to create an AI for MTTN competition.
 - **Est. Deadline**: 3/2025
-### MHP3 (MHP Music Player) [#](#mhp3)
+### MHP3 (MHP Music Player) [#](#mhp3) 
 - **Category**: SWE, Free
 - **Description**: A project that aims to create a music player that can play music from the internet, local storage, MHPEC (MHP Ecosystem) and also have a feature to download music. It also provide a feature to fetch music from 3rd party music provider.
 - **Est. Deadline**: 6/2025
