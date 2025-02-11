@@ -27,8 +27,11 @@
   - **Part 1: The class flow**
     - [x] Find an optimized algorithm to create a timetable
     - [x] Handle modifications statically
-    - [ ] Handle modifications dynamically
+    - [x] Find a way to handle modifications dynamically
+    - [x] Find a way to handle modifications automatically
     - [ ] Handle modifications automatically
+    - [ ] Create custom hints for backend
+    - [ ] Create a model specialized for generating hints
     - [ ] Create a timetable for a class with different modifications
     - [ ] Unit test
   - **Part 2: The multiple classes flow**
@@ -66,6 +69,10 @@
     - [ ] Create a chatbox that handle user's modifications
     - [ ] Connect to API
     - [ ] Unit test
+### Due
+  - Part 1: Must be done the section 7 before 20/1/2025
+  - Part 5: Must be done section 4 before 20/1/2025
+  - Further notifications will be updated later.
 ### Assigned Developers:
   - [x] **Tran Minh Hieu**: Part 1, Part 2, Part 3, Part 4, Part 5
   - [x] **Cao Minh Quoc Thai**: Part 1acd, Part 2ade, Part 3ade, Part 4ade
