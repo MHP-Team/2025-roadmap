@@ -25,59 +25,29 @@
 ## MHPST
 ### Features to be implemented:
   - **Part 1: The class flow**
-    - [x] Find an optimized algorithm to create a timetable
-    - [x] Handle modifications statically
-    - [x] Find a way to handle modifications dynamically
-    - [x] Find a way to handle modifications automatically
-    - [ ] Handle modifications automatically
-    - [ ] Create custom hints for backend
-    - [ ] Create a model specialized for generating hints
-    - [ ] Create a timetable for a class with different modifications
-    - [ ] Unit test
-  - **Part 2: The multiple classes flow**
-    - [ ] Find an optimized algorithm to create a timetable for multiple classes
-    - [ ] Ensure no conflict between classes
-    - [ ] Handle modifications statically
-    - [ ] Handle modifications dynamically
-    - [ ] Handle modifications automatically
-    - [ ] Create a timetable for multiple classes with different modifications
-    - [ ] Unit test
-  - **Part 3: The school flow**
-    - [ ] Find an optimized algorithm to create a timetable for a school
-    - [ ] Ensure no conflict between classes
-    - [ ] Handle modifications statically
-    - [ ] Handle modifications dynamically
-    - [ ] Handle modifications automatically
-    - [ ] Create a timetable for a school with different modifications
-    - [ ] Unit test
-  - **Part 4: The PTNK flow (different school system)**
-    - [ ] Find an optimized algorithm to create a timetable for PTNK
-    - [ ] Ensure no conflict between classes
-    - [ ] Handle modifications statically
-    - [ ] Handle modifications dynamically
-    - [ ] Handle modifications automatically
-    - [ ] Create a timetable for PTNK with different modifications
+    - [x] Find an optimized algorithm to create a timetable (MHP)
+    - [x] Handle modifications statically (MHP)
+    - [x] Find a way to handle modifications dynamically (MHP)
+    - [x] Find a way to handle modifications automatically (MHP)
+    - [ ] Handle modifications automatically (MHP | Due 10/3/2025)
+    - [x] Create custom hints for backend (MHP | Due 5/3/2025)
+    - [ ] Create sample data for model (Cao Minh Quoc Thai | Due 3/3/2025)
+    - [ ] Create hardcode for reading hints (Cao Minh Quoc Thai;MHP | Due 10/3/2025)
+    - [ ] Create a model specialized for generating hints (Phan Gia Khanh | Due 5/3/2025)
+    - [ ] Create a timetable for a class with different modifications (Phan Gia Khanh | Due 7/3/2025)
     - [ ] Unit test
   - **Part 5: API**
     - [ ] Create an API that connect to the algorithm
     - [ ] Create a documentation for the API
     - [ ] Unit test
   - **Part 6: Frontend**
-    - [ ] Create a dashboard for teachers, users
-    - [ ] Create a dashboard for admins
-    - [ ] Create a responsive, modern, user-friendly timetable editor (manually)
-    - [ ] Create a chatbox that handle user's modifications
+    - [x] Create land page (Trinh Dang Khoa)
+    - [ ] Create a dashboard for teachers, users (Trinh Dang Khoa | Due 14/3/2025)
+    - [ ] Create a dashboard for admins (Trinh Dang Khoa | Due 16/3/2025)
+    - [ ] Create a responsive, modern, user-friendly timetable editor (or called scratch-like page) (Trinh Dang Khoa | Due 10/3/2025)
+    - [ ] Create a chatbox that handle user's modifications (Trinh Dang Khoa | Due 12/3/2025)
     - [ ] Connect to API
     - [ ] Unit test
-### Due
-  - Part 1: Must be done the section 7 before 20/1/2025
-  - Part 5: Must be done section 4 before 20/1/2025
-  - Further notifications will be updated later.
-### Assigned Developers:
-  - [x] **Tran Minh Hieu**: Part 1, Part 2, Part 3, Part 4, Part 5
-  - [x] **Cao Minh Quoc Thai**: Part 1acd, Part 2ade, Part 3ade, Part 4ade
-  - [x] **Trinh Dang Khoa**: Part 6
-  - [x] **Steve Phan**: Part 6
 ### Goal
 - **Description**: We aim for an ecosystem that provide everything for users, from storage, music, timetable, etc.
 ## MHPAI
